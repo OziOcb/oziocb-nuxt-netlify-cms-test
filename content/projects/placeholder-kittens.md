@@ -9,3 +9,5 @@ gallery: ['https://placekitten.com/g/800/400', 'https://placekitten.com/600/600'
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
 
 Below are some Gallery photos that have been added to this Project.
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis commodi officiis eos nulla ea voluptatum, quas, vitae libero fuga labore molestiae reprehenderit exercitationem. Quo in voluptates quis, incidunt maiores deserunt.
